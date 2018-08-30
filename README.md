@@ -75,7 +75,7 @@ $system_config=[
 
 
   // 'cache'=>'redis',
-    'cache_time'=>3*60,//1天
+    'cache_time'=>3*60,//单位秒
     'ip'=>'127.0.0.1',
     'port'=>6379,
     'password'=>null,
